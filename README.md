@@ -1,7 +1,7 @@
 
 # Claude Code (Unofficial Source Extraction)
 
-Follow me at ![Twitter Follow](https://shields.io)](https://x.com/paidev)
+Follow me at https://x.com/paidev
 
 
 
